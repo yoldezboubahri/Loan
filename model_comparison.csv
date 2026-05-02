@@ -1,0 +1,2 @@
+Model,AUC-ROC,F1-Score,Accuracy,Precision,Recall,Threshold
+Decision Tree,0.9541,0.9011,0.8881,0.8778,0.9255,0.43
